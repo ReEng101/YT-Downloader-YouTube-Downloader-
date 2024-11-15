@@ -1,5 +1,5 @@
-# YT-Downloader-YouTube-Downloader
-Youtube Downloader based on pytubefix (Python) for downloading videos and music from YouTube 
+# YT-Downloader
+Youtube Downloader based on pytubefix (Python) for downloading videos and music from YouTube with a SQLite Database for saving History and managing it
 
 # dependencies
 Python, and pytubefix installed 
