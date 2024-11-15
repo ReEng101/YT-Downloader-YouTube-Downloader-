@@ -11,6 +11,9 @@ pip install pytubefix
 # Platforms 
 available for Windows, Linux, Android (Termux)
 
+# Where it save files ?
+in your home directory you will find a new directory called 'YT Downloader'
+
 # To run
 ```bash 
 python YTDownloader
