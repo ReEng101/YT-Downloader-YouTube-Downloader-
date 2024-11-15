@@ -14,7 +14,6 @@ available for Windows, Linux, Android (Termux)
 # To run
 ```bash 
 python YTDownloader
-
 Or
 python3 YTDownloader
 ```
