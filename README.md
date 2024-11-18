@@ -17,6 +17,7 @@ sudo apt install python
 sudo pip install pytubefix
 ```
 For Windows 
+
 Download and install python
 ```Powershell
 pip install pytubefix
