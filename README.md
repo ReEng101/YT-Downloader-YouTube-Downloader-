@@ -3,8 +3,22 @@ Youtube Downloader based on pytubefix (Python) for downloading videos and music 
 
 # dependencies
 Python, and pytubefix installed 
+
+For Termux
 ```bash
+pkg update -y
 pkg i python
+pip install pytubefix
+```
+For Linux
+```bash
+sudo apt-get update -y
+sudo apt install python
+sudo pip install pytubefix
+```
+For Windows 
+Download and install python
+```Powershell
 pip install pytubefix
 ```
 
